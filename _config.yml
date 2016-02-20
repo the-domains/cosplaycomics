@@ -1,0 +1,14 @@
+layout_spectrum: 0.7524109
+typography_spectrum: 0.1901053
+color:
+  saturation: 0.08068231
+  lightness: 0.9342859
+  brandStrength: 0.3413331
+  rhythmicContrast: 0.2301134
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: CosplayComics
